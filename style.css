@@ -311,6 +311,17 @@ left: 5rem;
     width: 300px;
     border-radius: 10px;
 }
+.resume-btn{
+display: inline-block;
+    background: #25df13;
+    margin:10px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.resume-btn a:hover{
+    color: #fff;
+}
 .contact{
     margin: 20px;
     padding: 10px;
